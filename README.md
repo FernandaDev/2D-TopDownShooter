@@ -18,4 +18,4 @@
 - **Wander** - a IA irá escolher um destino aleatório para seguir.
 - **Awareness** - quando o jogador entra na área de detecção, a IA irá procurá-lo até entrar no campo de visão ou sair da área de detecção.
 - **Chase** - quando o jogador está no campo de visão, a IA irá se mover em direção ao mesmo até que chegue na distâcia de atirar.
-- **Shoot** - enquanto o jogador estiver na distâcia de atirar, a IA irá mirar no jogador e atirar.
+- **Shoot** - enquanto o jogador estiver na distância de atirar, a IA irá mirar no jogador e atirar.
